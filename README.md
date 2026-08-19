@@ -74,7 +74,7 @@ streamlit run app.py
 ```
 
 ### 4. Deployed App
-[Live Streamlit App](https://YOUR_APP_URL.streamlit.app)
+[Live Streamlit App](https://ml-classification-app-hvtt3qsfsist7avuphghq3.streamlit.app/)
 
 ## Project Structure
 ```
